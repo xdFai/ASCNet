@@ -12,8 +12,9 @@
 
 ## Usage
 
-#### 1. Data
+#### 1. Dataset
 Training dataset: [[Data]](https://drive.google.com/file/d/1o9BmWspPTJtFsBj66NN3FfM83cjp37IW/view?usp=sharing)
+
 Training dataset augmentation: [[Data_AUG]](https://drive.google.com/file/d/1Iv4CoQiInFORYn1kHjJCCCeuy6LKvnIc/view?usp=sharing)
 
 
