@@ -1,4 +1,5 @@
 # ASCNet: Asymmetric Sampling Correction Network for Infrared Image Destriping
+The full code will be made public after the manuscript is accepted.
 
 # Chanlleges and inspiration   
 ![Image text](https://github.com/xdFai/ASCNet/blob/main/Fig/Fig1.png)
