@@ -1,9 +1,7 @@
 # This is the code of paper "ASCNet: Asymmetric Sampling Correction Network for Infrared Image Destriping", the full code will be made public after the manuscript is accepted.
 
 # Chanlleges and inspiration   
-![Image text](https://github.com/xdFai/ASCNet/blob/main/Fig/Fig1.png)
-
-![Image text](https://github.com/xdFai/ASCNet/blob/main/Fig/Fig4.png)
+![Image text](https://github.com/xdFai/ASCNet/blob/main/Fig/Fig0.png)
 
 # Structure
 ![Image text](https://github.com/xdFai/ASCNet/blob/main/Fig/Fig2.png)
