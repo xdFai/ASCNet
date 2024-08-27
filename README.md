@@ -8,6 +8,18 @@
 
 ![Image text](https://github.com/xdFai/ASCNet/blob/main/Fig/Fig3.png)
 
+
+# Examples
+
+[<img src="https://github.com/xdFai/ASCNet/blob/main/Fig/Mars.png" width="385">](https://imgsli.com/MjkxNDU2) | [<img src="assets/example-Outdoor-Rain.png" width="385">](https://imgsli.com/MjkxNDU4)
+:-------------------------:|:-------------------------:
+RainDrop | Outdoor-Rain 
+
+
+[<img src="assets/example-Snow100K-L.png" width="385">](https://imgsli.com/MjkxNDU5) | [<img src="assets/example-RealSnow.png" width="385">](https://imgsli.com/MjkxNDYx)
+:-------------------------:|:-------------------------:
+Snow100K-L | RealSnow 
+
 ## Usage
 
 #### 1. Dataset
