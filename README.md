@@ -1,15 +1,7 @@
 # This is the code of paper "ASCNet: Asymmetric Sampling Correction Network for Infrared Image Destriping", the full code will be made public after the manuscript is accepted.
 [[Paper]](https://arxiv.org/abs/2401.15578)
-# Chanlleges and inspiration   
-![Image text](https://github.com/xdFai/ASCNet/blob/main/Fig/Fig0.png)
 
-# Structure
-![Image text](https://github.com/xdFai/ASCNet/blob/main/Fig/Fig2.png)
-
-![Image text](https://github.com/xdFai/ASCNet/blob/main/Fig/Fig3.png)
-
-
-# Examples
+# Real Destriping Examples
 
 [<img src="https://github.com/xdFai/ASCNet/blob/main/Fig/Mars.png" width="385">](https://imgsli.com/MjkxNDU2) | [<img src="https://github.com/xdFai/ASCNet/blob/main/Fig/Building.png" width="385">](https://imgsli.com/MjkxNDU4)
 :-------------------------:|:-------------------------:
@@ -19,6 +11,17 @@ Mars | Building
 [<img src="https://github.com/xdFai/ASCNet/blob/main/Fig/Road.png" width="385">](https://imgsli.com/MjkxNDU5) | [<img src="https://github.com/xdFai/ASCNet/blob/main/Fig/Car.png" width="385">](https://imgsli.com/MjkxNDYx)
 :-------------------------:|:-------------------------:
 Road | Car 
+
+
+# Chanlleges and inspiration   
+![Image text](https://github.com/xdFai/ASCNet/blob/main/Fig/Fig0.png)
+
+# Structure
+![Image text](https://github.com/xdFai/ASCNet/blob/main/Fig/Fig2.png)
+
+![Image text](https://github.com/xdFai/ASCNet/blob/main/Fig/Fig3.png)
+
+
 
 ## Usage
 
