@@ -1,4 +1,5 @@
-# This is the code of paper "ASCNet: Asymmetric Sampling Correction Network for Infrared Image Destriping", the full code will be made public after the manuscript is accepted.
+# This is the code of paper "ASCNet: Asymmetric Sampling Correction Network for Infrared Image Destriping".
+The model is uploaded, and the full code will be made public after the manuscript is accepted.
 [[Paper]](https://arxiv.org/abs/2401.15578)
 
 # Real Destriping Examples
