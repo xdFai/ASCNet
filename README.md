@@ -1,5 +1,5 @@
 # This is the code of paper "ASCNet: Asymmetric Sampling Correction Network for Infrared Image Destriping".[[Paper]](https://arxiv.org/abs/2401.15578)
-
+Shuai Yuan, Hanlin Qin, Xiang Yan, Shiqi Yang, Shuowen Yang, Naveed Akhtar, Huixin Zhou, IEEE Transactions on Geoscience and Remote Sensing 2025.
 # Real Destriping Examples
 
 [<img src="https://github.com/xdFai/ASCNet/blob/main/Fig/Mars.png" width="385">](https://imgsli.com/MjkxNDU2) | [<img src="https://github.com/xdFai/ASCNet/blob/main/Fig/Building.png" width="385">](https://imgsli.com/MjkxNDU4)
