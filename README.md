@@ -40,5 +40,20 @@ python train.py
 python test.py
 ```
 
+If you find the code useful, please consider citing our paper using the following BibTeX entry.
+
+```
+@ARTICLE{10486932,
+  author={Shuai Yuan, Hanlin Qin, Xiang Yan, Shiqi Yang, Shuowen Yang, Naveed Akhtar, Huixin Zhou},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={ASCNet: Asymmetric Sampling Correction Network for Infrared Image Destriping}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={},
+  keywords={XXX},
+  doi={XXX}}
+```
+
 ## Contact
 **Welcome to raise issues or email to [yuansy@stu.xidian.edu.cn](yuansy@stu.xidian.edu.cn) or [yuansy2@student.unimelb.edu.au](yuansy2@student.unimelb.edu.au) for any question regarding our ASCNet.**
