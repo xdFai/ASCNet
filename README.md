@@ -43,16 +43,16 @@ python test.py
 If you find the code useful, please consider citing our paper using the following BibTeX entry.
 
 ```
-@ARTICLE{10486932,
-  author={Shuai Yuan, Hanlin Qin, Xiang Yan, Shiqi Yang, Shuowen Yang, Naveed Akhtar, Huixin Zhou},
+@ARTICLE{10855453,
+  author={Yuan, Shuai and Qin, Hanlin and Yan, Xiang and Yang, Shiqi and Yang, Shuowen and Akhtar, Naveed and Zhou, Huixin},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={ASCNet: Asymmetric Sampling Correction Network for Infrared Image Destriping}, 
   year={2025},
   volume={},
   number={},
-  pages={},
-  keywords={XXX},
-  doi={XXX}}
+  pages={1-1},
+  keywords={Noise;Discrete wavelet transforms;Semantics;Image reconstruction;Feature extraction;Neural networks;Filters;Crosstalk;Aggregates;Geoscience and remote sensing;Infrared image destriping;deep learning;asymmetric sampling;wavelet transform;column correction},
+  doi={10.1109/TGRS.2025.3534838}}
 ```
 
 ## Contact
