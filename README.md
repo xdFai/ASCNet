@@ -35,7 +35,7 @@ Training dataset augmentation: [[Data_AUG]](https://drive.google.com/file/d/1Iv4
 python train.py
 ```
 
-#### 3. Test and demo.
+#### 3. Test and demo. [[Weight]](https://drive.google.com/file/d/1zbBsWUbRVBjNckPg5DiCgKIKOKWnQ2N8/view?usp=sharing)
 ```bash
 python test.py
 ```
