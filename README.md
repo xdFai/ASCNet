@@ -20,7 +20,6 @@ Road | Car
 
 ![Image text](https://github.com/xdFai/ASCNet/blob/main/Fig/Fig3.png)
 
-# If the implementation of this repo is helpful to you, just star it！⭐⭐⭐
 
 ## Usage
 
@@ -40,7 +39,9 @@ python train.py
 python test.py
 ```
 
-If you find the code useful, please consider citing our paper using the following BibTeX entry.
+# If the implementation of this repo is helpful to you, just star it！⭐⭐⭐
+
+# If you find the code useful, please consider citing our paper using the following BibTeX entry.
 
 ```
 @ARTICLE{10855453,
