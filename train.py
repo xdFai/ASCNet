@@ -23,8 +23,7 @@ import torchvision.utils as utils
 from torch.utils.tensorboard import SummaryWriter
 # from models import FFDNet
 from dataset import Dataset
-from modelhyper.RHA_PS_B16 import RHA_PS_B16
-from model import common
+from model.ASCNet import ASCNet
 from utils import *
 from warmup_scheduler import GradualWarmupScheduler
 from torchvision import transforms
@@ -56,7 +55,7 @@ def main(args):
     # **********************************************************************************************
     # build model
     # **********************************************************************************************
-    net = RHA_PS_B16(1, 1, feats=16)
+    net = ASCNet(1, 1, feats=16)
     # Define loss
     criterion = nn.MSELoss().cuda()
     ssim = SSIM().cuda()
@@ -85,7 +84,7 @@ def main(args):
 
     # Training
     for epoch in range(start_epoch, args.epochs):
-        print("==============RHA_PS_B16==============", epoch, 'lr={:.6f}'.format(scheduler.get_last_lr()[0]))
+        print("==============ASCNet==============", epoch, 'lr={:.6f}'.format(scheduler.get_last_lr()[0]))
         psnr_sum = 0
         psnr_val = 0
         ssim_sum = 0
@@ -179,7 +178,7 @@ def main(args):
             print('--- save the model @ ep--{} PSNR--{} SSIM--{}'.format(epoch, best_psnr, best_ssim))
             best_psnr_s = format(best_psnr,'.4f')
             best_ssim_s = format(best_ssim,'.6f')
-            s = "best_" + "RHA_PS_B16"+"_" + str(best_psnr_s) + "_" + str(best_ssim_s) + ".pth"
+            s = "best_" + "ASCNet"+"_" + str(best_psnr_s) + "_" + str(best_ssim_s) + ".pth"
             torch.save(model.state_dict(), os.path.join(args.log_dir, s))
 
         training_params['start_epoch'] = epoch + 1
@@ -187,9 +186,9 @@ def main(args):
 
 if __name__ == "__main__":
 
-    parser = argparse.ArgumentParser(description="RHA_PS_B16")
+    parser = argparse.ArgumentParser(description="ASCNet")
     # ********************************************************************************************************************************
-    parser.add_argument("--log_dir", type=str, default="otherlogs/RHA_PS_B16", help='path of log files')
+    parser.add_argument("--log_dir", type=str, default="otherlogs/ASCNet", help='path of log files')
     parser.add_argument("--batch_size", type=int, default=128, help="Training batch size")
     parser.add_argument("--epochs", "--e", type=int, default=101, help="Number of total training epochs")
     parser.add_argument("--lr", type=float, default=1e-3, help="Initial learning rate")
@@ -204,7 +203,7 @@ if __name__ == "__main__":
     argspar = parser.parse_args()
 
     print("\n#########################################\n"
-          "                 RHA_PS_B16               "
+          "                 ASCNet               "
           "\n#########################################\n")
     print("> Parameters:")
     for p, v in zip(argspar.__dict__.keys(), argspar.__dict__.values()):
