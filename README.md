@@ -48,10 +48,10 @@ If you find the code useful, please consider citing our paper using the followin
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={ASCNet: Asymmetric Sampling Correction Network for Infrared Image Destriping}, 
   year={2025},
-  volume={},
+  volume={63},
   number={},
-  pages={1-1},
-  keywords={Noise;Discrete wavelet transforms;Semantics;Image reconstruction;Feature extraction;Neural networks;Filters;Crosstalk;Aggregates;Geoscience and remote sensing;Infrared image destriping;deep learning;asymmetric sampling;wavelet transform;column correction},
+  pages={1-15},
+  keywords={Noise;Discrete wavelet transforms;Semantics;Image reconstruction;Feature extraction;Neural networks;Filters;Crosstalk;Aggregates;Geoscience and remote sensing;Asymmetric sampling (AS);column correction;deep learning;infrared (IR) image destriping;wavelet transform},
   doi={10.1109/TGRS.2025.3534838}}
 ```
 
