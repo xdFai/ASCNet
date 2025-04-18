@@ -28,6 +28,7 @@ Training dataset: [[Data]](https://drive.google.com/file/d/1o9BmWspPTJtFsBj66NN3
 
 Training dataset augmentation: [[Data_AUG]](https://drive.google.com/file/d/1Iv4CoQiInFORYn1kHjJCCCeuy6LKvnIc/view?usp=sharing)
 
+Validation dataset:  [[clean]](https://drive.google.com/file/d/1WYYZCoEooOXDG49YJXJiNkCtVFgGdx2J/view?usp=sharing), [[dirty]](https://drive.google.com/file/d/1D1NAyMLbso_UL-YRqYfPduFR-Zs8g2sx/view?usp=sharing)
 
 ##### 2. Train.
 ```bash
