@@ -2,7 +2,8 @@
 Shuai Yuan, Hanlin Qin, Xiang Yan, Shiqi Yang, Shuowen Yang, Naveed Akhtar, Huixin Zhou, IEEE Transactions on Geoscience and Remote Sensing 2025.
 
 # Bilibili 视频分享⭐⭐⭐
-https://www.bilibili.com/video/BV1udCRB1EH8/
+Paper：https://www.bilibili.com/video/BV1udCRB1EH8/
+Code：https://www.bilibili.com/video/BV1LQCiBiEuV/
 
 # Real Destriping Examples
 
