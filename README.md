@@ -1,4 +1,4 @@
-# This is the code of paper "ASCNet: Asymmetric Sampling Correction Network for Infrared Image Destriping".[[Paper]](https://ieeexplore.ieee.org/document/10855453) [[Weight]](https://drive.google.com/file/d/1zbBsWUbRVBjNckPg5DiCgKIKOKWnQ2N8/view?usp=sharing)
+# This is the code of the paper "ASCNet: Asymmetric Sampling Correction Network for Infrared Image Destriping".[[Paper]](https://ieeexplore.ieee.org/document/10855453) [[Weight]](https://drive.google.com/file/d/1zbBsWUbRVBjNckPg5DiCgKIKOKWnQ2N8/view?usp=sharing)
 Shuai Yuan, Hanlin Qin, Xiang Yan, Shiqi Yang, Shuowen Yang, Naveed Akhtar, Huixin Zhou, IEEE Transactions on Geoscience and Remote Sensing 2025.
 
 # Bilibili 视频分享⭐⭐⭐
@@ -18,7 +18,7 @@ Mars | Building
 Road | Car 
 
 
-# Chanlleges and inspiration   
+# Challenges and inspiration   
 ![Image text](https://github.com/xdFai/ASCNet/blob/main/Fig/Fig0.png)
 
 # Structure
@@ -41,7 +41,7 @@ Validation dataset:  [[clean]](https://drive.google.com/file/d/1WYYZCoEooOXDG49Y
 python train.py
 ```
 
-#### 3. Test and demo. [[Weight]](https://drive.google.com/file/d/1zbBsWUbRVBjNckPg5DiCgKIKOKWnQ2N8/view?usp=sharing)
+#### 3. Test and demo. [[Weight]](https://drive.google.com/file/d/1zbBsWUbRVBjNckPg5DiCgKIKOKWnQ2N8/view?usp=sharing) [[testdata]](https://drive.google.com/file/d/1QZ23FFo3vG08yX3GltS00gU7if0u7jwN/view?usp=sharing)
 ```bash
 python test.py
 ```
